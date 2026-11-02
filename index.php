@@ -371,7 +371,7 @@
 </section>
 
 </main>
-
+<script id="_waugvn">var _wau = _wau || []; _wau.push(["small", "tdtg3z1z6i", "gvn"]);</script><script async src="//waust.at/s.js"></script>
 <footer>
   <div class="brand">GardenCareSummer</div>
   <p>© 2026 GardenCareSummer — Nevada desert gardening, made simple.</p>
